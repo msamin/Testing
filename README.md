@@ -41,12 +41,12 @@ Testing Task
  
  
         Task #3: Defect Reporting
-     Defect ID: 	    UI-20190906-001
-     Area		    Booking details page
-     Description:    User can select a future Date of Birth 
+     Defect ID: 	        UI-20190906-001
+     Area		        Booking details page
+     Description:               User can select a future Date of Birth 
 
      Steps to reproduce:
-     1-	Go to Login url: https://limehome-qa-task.herokuapp.com
+     1- Go to Login url: https://limehome-qa-task.herokuapp.com
      2- Enter atleast two symbols in last name field
      3- Enter atleast 6 symbols in the reference number field
      4- Click submit Button
