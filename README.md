@@ -47,10 +47,10 @@ Testing Task
 
      Steps to reproduce:
      1-	Go to Login url: https://limehome-qa-task.herokuapp.com
-     2-	Enter atleast two symbols in last name field
+     2- Enter atleast two symbols in last name field
      3- Enter atleast 6 symbols in the reference number field
      4- Click submit Button
-     5-	On the booking details page, Click Date of birth.
+     5- On the booking details page, Click Date of birth.
      6- Click on calender icon and select a future date of birth (e.g. 10.12.2022)
 
      Expected Result: Error message should appear (Invalid date selected).
