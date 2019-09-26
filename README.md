@@ -2,7 +2,7 @@ Testing Task
 
 
         Task #1: Writing Test Scenarios
-        Login Page Test Scenarios
+    Login Page Test Scenarios
     1-  Verify the messages/hint shown for each mandatory field.
     2-  Verify if the user cannot proceed without filling all the mandatory fields.
     3-  Verify if user cannot proceed with invalid data in mandatory fields. 
@@ -10,7 +10,7 @@ Testing Task
     5-  Verify if user can proceed only after filling all the mandatory fields
     6-  Verify if submit button can be clicked only after valid data is entered.
 
-        Booking Details Page Test Scenarios:
+    Booking Details Page Test Scenarios:
     1-  Verify if Language selection Page is functional for all the necessary information
     2-  Verify if booking reference Number is the same as was entered in the login page
     3-  Verify if Last name is the same as entered in the login page
@@ -24,9 +24,9 @@ Testing Task
  
     
         Task #2: Defects
-        Login Page defects
-        1- User can enter numbers(only) or Special characters(only) in the last name field and still can proceed to next field
-        2- User can enter empty spaces in Name and Reference Number field and proceed to next page
+    Login Page defects
+    1- User can enter numbers(only) or Special characters(only) in the last name field and still can proceed to next field
+    2- User can enter empty spaces in Name and Reference Number field and proceed to next page
     
     Booking Details page defects:
     1-  Changing language is functional only for day, date and time.
@@ -41,23 +41,23 @@ Testing Task
  
  
         Task #3: Defect Reporting
-        Defect ID: 	    UI-20190906-001
-        Area		    Booking details page
-        Description:    User can select a future Date of Birth 
+     Defect ID: 	    UI-20190906-001
+     Area		    Booking details page
+     Description:    User can select a future Date of Birth 
 
-                Steps to reproduce:
-        1-	Go to Login url: https://limehome-qa-task.herokuapp.com
-        2-	Enter atleast two symbols in last name field
-        3- 	Enter atleast 6 symbols in the reference number field
-        4- 	Click submit Button
-        5-	On the booking details page, Click Date of birth.
-        6-  Click on calender icon and select a future date of birth (e.g. 10.12.2022)
+     Steps to reproduce:
+     1-	Go to Login url: https://limehome-qa-task.herokuapp.com
+     2-	Enter atleast two symbols in last name field
+     3- Enter atleast 6 symbols in the reference number field
+     4- Click submit Button
+     5-	On the booking details page, Click Date of birth.
+     6- Click on calender icon and select a future date of birth (e.g. 10.12.2022)
 
-        Expected Result: Error message should appear (Invalid date selected).
+     Expected Result: Error message should appear (Invalid date selected).
 
-        Actual Results: No error notification and user can proceed to next page.
+     Actual Results: No error notification and user can proceed to next page.
     
         
     
         Task #4: Automation (Bonus)
-        I have tried to do E2E testing task and the source code is uploaded. 
+     I have tried to do E2E testing task and the source code is uploaded. 
