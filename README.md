@@ -1,7 +1,7 @@
 Testing Task
 
-Task #1: Writing Test Scenarios
-    Login Page Test Scenarios
+        Task #1: Writing Test Scenarios
+        Login Page Test Scenarios
     1-  Verify the messages/hint shown for each mandatory field.
     2-  Verify if the user cannot proceed without filling all the mandatory fields.
     3-  Verify if user cannot proceed with invalid data in mandatory fields. 
