@@ -56,3 +56,7 @@ Expected Result: Error message should appear (Invalid date selected).
 Actual Results: No error notification and user can proceed to next page.
     
     
+    
+    
+Task #4: Automation (Bonus)
+I have tried to do E2E testing task and the source code is uploaded. 
