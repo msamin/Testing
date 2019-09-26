@@ -43,20 +43,20 @@ Testing Task
         Area		    Booking details page
         Description:    User can select a future Date of Birth 
 
-Steps to reproduce:
-1-	Go to Login url: https://limehome-qa-task.herokuapp.com
-2-	Enter atleast two symbols in last name field
-3- 	Enter atleast 6 symbols in the reference number field
-4- 	Click submit Button
-5-	On the booking details page, Click Date of birth.
-6-  Click on calender icon and select a future date of birth (e.g. 10.12.2022)
+                Steps to reproduce:
+        1-	Go to Login url: https://limehome-qa-task.herokuapp.com
+        2-	Enter atleast two symbols in last name field
+        3- 	Enter atleast 6 symbols in the reference number field
+        4- 	Click submit Button
+        5-	On the booking details page, Click Date of birth.
+        6-  Click on calender icon and select a future date of birth (e.g. 10.12.2022)
 
-Expected Result: Error message should appear (Invalid date selected).
+        Expected Result: Error message should appear (Invalid date selected).
 
-Actual Results: No error notification and user can proceed to next page.
+        Actual Results: No error notification and user can proceed to next page.
     
     
     
     
         Task #4: Automation (Bonus)
-I have tried to do E2E testing task and the source code is uploaded. 
+        I have tried to do E2E testing task and the source code is uploaded. 
