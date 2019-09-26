@@ -1,5 +1,6 @@
 Testing Task
 
+
         Task #1: Writing Test Scenarios
         Login Page Test Scenarios
     1-  Verify the messages/hint shown for each mandatory field.
@@ -19,7 +20,8 @@ Testing Task
     7-  Verify if user can select Nationality from the list
     8-  Verify if Passport upoload option is visible if non-German Nationality is selected
     9-  Verify is if user can proceed to passport upload only if valid passport number is entered. 
-    
+ 
+ 
     
         Task #2: Defects
         Login Page defects
@@ -36,9 +38,9 @@ Testing Task
     7-  User can enter alphabets only in postal code field and can proceed
     8-  User can enter only numbers or only alphabets in passport ID field and still can proceed
  
+ 
+ 
         Task #3: Defect Reporting
-
-
         Defect ID: 	    UI-20190906-001
         Area		    Booking details page
         Description:    User can select a future Date of Birth 
@@ -55,8 +57,7 @@ Testing Task
 
         Actual Results: No error notification and user can proceed to next page.
     
-    
-    
+        
     
         Task #4: Automation (Bonus)
         I have tried to do E2E testing task and the source code is uploaded. 
